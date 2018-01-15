@@ -1,0 +1,5 @@
+name: Envoys
+version: 1.0.0
+api: [CLA, 3.0.0-ALPHA10]
+main: Envoys\Main
+author: CLADevs Team
