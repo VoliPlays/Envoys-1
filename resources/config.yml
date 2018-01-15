@@ -1,0 +1,18 @@
+---
+#World name.
+Level: world
+
+#xyz that chest spawn.
+Coordsx: 142
+Coordsy: 74
+Coordsz: 119
+
+#Chest Name.
+Chest-Name: CLADevs Team
+
+#Broadcast message when an envoy spawned
+Spawned-Message: Envoy Spawned at {x}, {y}, {z}
+
+# Item:meta:Amount:Name
+items: ["1:0:52:hi", "2:0:21:211"]
+...
